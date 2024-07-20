@@ -1,0 +1,10 @@
+{
+  "name": "lesson-1-homework",
+  "version": "1.0.0",
+  "description": "NodeJS Greeting CLI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Sergey Arzumanyan"
+}
